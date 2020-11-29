@@ -17,3 +17,5 @@ This repo contains links to all data structures that I have implemented.
 7. [Unordered Map](https://github.com/naman14310/Data-Structures-Implementation/blob/main/UnorderedMap.cpp)
 
 8. [Tries](https://github.com/naman14310/Trie)
+
+9. [Suffix Arrays](https://github.com/naman14310/Suffix-Arrays)
