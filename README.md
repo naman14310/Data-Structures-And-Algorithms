@@ -1,4 +1,4 @@
-# Data Sructures
+# Data Structures
 
 This repo contains links to all data structures that I have implemented.
 
