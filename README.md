@@ -20,8 +20,12 @@ This repo contains links to all data structures that I have implemented.
 
 9. [Suffix Arrays](https://github.com/naman14310/Suffix-Arrays)
 
-10. [Dynamic Programming](https://github.com/naman14310/Dynamic-Programming)
+10. [Sorting](https://github.com/naman14310/Sorting)
 
-11. [Backtracking](https://github.com/naman14310/Backtracking)
+11. [External Sorting](https://github.com/naman14310/External-Merge-Sort)
 
-12. [Miscellaneous](https://github.com/naman14310/Miscellaneous)
+12. [Dynamic Programming](https://github.com/naman14310/Dynamic-Programming)
+
+13. [Backtracking](https://github.com/naman14310/Backtracking)
+
+14. [Miscellaneous](https://github.com/naman14310/Miscellaneous)
