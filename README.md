@@ -19,3 +19,9 @@ This repo contains links to all data structures that I have implemented.
 8. [Tries](https://github.com/naman14310/Trie)
 
 9. [Suffix Arrays](https://github.com/naman14310/Suffix-Arrays)
+
+10. [Dynamic Programming](https://github.com/naman14310/Dynamic-Programming)
+
+11. [Backtracking](https://github.com/naman14310/Backtracking)
+
+12. [Miscellaneous](https://github.com/naman14310/Miscellaneous)
