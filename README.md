@@ -1,6 +1,6 @@
-# Data Structures
+# Data Structures & Algo
 
-This repo contains links to all data structures that I have implemented.
+This repo contains links to all data structures and algorithms that I have implemented.
 
 1. [Dequeue](https://github.com/naman14310/Data-Structures-Implementation/blob/main/deque_implementation.cpp)
 
